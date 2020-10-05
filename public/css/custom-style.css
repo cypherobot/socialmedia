@@ -1,0 +1,31 @@
+    /* header {
+        background: #40b7f5;
+    } */
+    
+    .container {
+        max-width: 85%;
+    }
+    
+    #user-info p.title {
+        font-size: 18px;
+        font-weight: 600;
+    }
+    
+    #user-info p.info {
+        font-size: 16px;
+        color: black;
+    }
+    
+    .ln {
+        border-bottom: 1px;
+        border-top: 0px;
+        border-width: 1px;
+        border-color: deepskyblue;
+        border-style: solid;
+        margin-bottom: 13px;
+        width: 97%;
+    }
+    
+    .ico {
+        color: deepskyblue;
+    }
